@@ -92,7 +92,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Fatima Abdullah Al Leithy**, I’m a passionate Data Analyst and Developer.
+Hi there! I'm **Fatima Abdullah**, I’m a passionate Data Analyst and Developer.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
